@@ -1,2 +1,1 @@
-print("Hello Git!")
-print("Cambio 3, commit 3")
+print("New Hello Git!")
